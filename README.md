@@ -7,15 +7,15 @@ This is the API to our project Kitty News. Here we are authenticating users, sto
 - Yearly subscription plan
 - Display articles in a category
 
-## The code
+## The Code
 [Deployed App(Heroku)](https://kitty-news.herokuapp.com/) </br>
-[Github](https://github.com/CraftAcademy/kitty_news_api)</br>
-The admin user interface, mobile application and User Interface can be found here:
-  - [User Interface](https://github.com/CraftAcademy/kitty_news_client_user)
-  - [Admin User Interface](https://github.com/CraftAcademy/kitty_news_client_admin)
-  - [Mobile](https://github.com/CraftAcademy/kitty_news_client_mobile)
+[Github](https://github.com/salindholm/kitty_news_api)</br>
+The admin user interface, mobile application and user interface can be found here:
+  - [User Interface](https://github.com/salindholm/kitty_news_client_user)
+  - [Admin User Interface](https://github.com/salindholm/kitty_news_client_admin)
+  - [Mobile](https://github.com/salindholm/kitty_news_client_mobile)
 
-## User stories
+## User Stories
 Check the whole design sprint and user story history of the project in [this](https://www.pivotaltracker.com/n/projects/2479403) Pivotal Tracker board.
 
 ## Dependencies
@@ -34,8 +34,8 @@ Check the whole design sprint and user story history of the project in [this](ht
 - Aws-sdk-s3
 
 ## Acknowledgements
-- [Craft Academy](https://www.craftacademy.se/) course material
-- [Craft Academy](https://www.craftacademy.se/) coaches: [Thomas Ochman](https://github.com/tochman) and [Emma-Maria Thalen](https://github.com/emtalen)
+- Course material from [Craft Academy](https://www.craftacademy.se/english/)
+- [Craft Academy](https://www.craftacademy.se/english/) coaches: [Thomas Ochman](https://github.com/tochman) and [Emma-Maria Thalen](https://github.com/emtalen)
 
 ## License
 MIT License
